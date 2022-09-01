@@ -1,0 +1,13 @@
+{
+  "name": "Skribbl.io Cheatv1.0 German by Stabel",
+  "version": "1.0.0",
+  "description": "Skribbl.io Cheat für die Deutsche Version von Stabel",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://skribbl.io/*"],
+      "js": ["script.js"]
+    }
+  ],
+  "icons": { "16": "icons/icon-16.png", "48": "icons/icon-48.png", "128": "icons/icon-128.png" }
+}
