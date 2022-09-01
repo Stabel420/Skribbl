@@ -640,4 +640,4 @@ setInterval(() => {
     if(cheatOn == true){
         autoGuess();
     }
-}, 920);
+}, 950);
