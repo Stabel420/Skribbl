@@ -17,7 +17,7 @@ How To Install 2 Ways:
 Through Chrome Browser Extensions:
 1. Download the Folder.
 2. Then goto chrome://extensions/
-3. Press Developer Mode on the top right cornen on
+3. Press Developer Mode on the top right corner on
 4. Press Load unpacked
 5. Select the inside of the Folder you downloaded
 6. And press Select Folder
