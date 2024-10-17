@@ -1,5 +1,5 @@
 # Skribbl
-Deutscher Skribbl Assistent(Cheat) Browser Extension
+German Skribbl Assistant(Cheat) Browser Extension
 
 Features:
 1. Shows you the word that are possible (German Skribbl)
